@@ -1,0 +1,99 @@
+C:/Users/adelm/Desktop/SingleCycleModified/testbench.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/testbench.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/adder.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/adder.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/imem.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/imem.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/mips.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/mips.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/zeroext.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/zeroext.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module zeroext
+
+Top level modules:
+	zeroext
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/sl2.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/sl2.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sl2
+
+Top level modules:
+	sl2
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/signext.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/signext.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/florp.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/florp.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module flopr
+
+Top level modules:
+	flopr
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/datapath.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/datapath.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/alu.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/alu.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/top.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/top.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/dmem.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/dmem.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/mux2.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/mux2.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/adelm/Desktop/SingleCycleModified/regfile.sv {1 {vlog -work work -sv -stats=none C:/Users/adelm/Desktop/SingleCycleModified/regfile.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}}
